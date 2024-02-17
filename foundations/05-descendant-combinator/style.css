@@ -1,0 +1,10 @@
+div p{
+    background-color: #ffff00;
+}
+.container p{
+    color: hsl(0, 100%, 50%);
+}
+
+.container .text{
+    font-size: 20px;
+}
